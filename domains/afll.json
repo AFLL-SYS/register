@@ -1,10 +1,10 @@
 {
-  "domain": "afll.is-a.dev",
+  "repo": "AFLL-SYS/register",
   "owner": {
     "username": "AFLL-SYS",
     "email": "afl123141@outlook.com"
   },
-  "records": {
+  "record": {
     "A": ["216.98.79.1"],
     "TXT": {
       "_vercel": "vc-domain-verify=afll.is-a.dev,7ef3afce95b77cc98fff"
