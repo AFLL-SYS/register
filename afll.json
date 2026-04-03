@@ -6,7 +6,7 @@
   "records": {
     "A": ["216.98.79.1"],
     "TXT": {
-      "_vercel": "VC-domain-verify-xxxx"
+      "_vercel": "vc-domain-verify=afll.is-a.dev,7ef3afce95b77cc98fff"
     }
   }
 }
